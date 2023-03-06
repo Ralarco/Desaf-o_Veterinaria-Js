@@ -1,0 +1,27 @@
+[
+  {
+    "Nombre": "Bartolo",
+    "Edad": "6",
+    "Tipo": "conejo",
+    "Color": "rosado",
+    "Enfermedad": "peste"
+  },
+  [
+    {
+      "Nombre": "Bartolo",
+      "Edad": "6",
+      "Tipo": "salamandra",
+      "Color": "rosado",
+      "Enfermedad": "peste"
+    }
+  ],
+  [
+    {
+      "Nombre": "Mancha",
+      "Edad": "3",
+      "Tipo": "Gato",
+      "Color": "Manchado",
+      "Enfermedad": "Locura"
+    }
+  ]
+]
